@@ -4,7 +4,7 @@
 
 **[Alternate Demo (Best)](https://hugothemes.gitlab.io/mainroad/)** | [Standart Demo](https://themes.gohugo.io/theme/mainroad/)
 
-![screenshot](https://github.com/Vimux/mainroad/blob/master/images/screenshot.png)
+![screenshot](https://github.com/ranjitis/mainroad/blob/master/images/screenshot.png)
 
 **Adaptation has several changes:**
 
